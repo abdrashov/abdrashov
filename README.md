@@ -6,8 +6,8 @@ I’m a _juniōr Web-Developer_ from Kazakhstan.
 
 
 - 🌱 I’m currently learning RestAPI and OOP
-- 💬 Ask me about anything here
-- 📫 How to reach me: <a href="#">Abdrashov</a>
+- 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
+- 📫 How to reach me: [Abdrashov](https://abdrashov.github.io)
 - ✈️ I love to travel, especially to Django and Python conferences
 - ☕️ I drink tea, and especially enjoy
 
