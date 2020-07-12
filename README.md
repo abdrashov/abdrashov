@@ -1,6 +1,7 @@
 ### Hi, I'm **[Abdrashov Zamanbek](https://abdrashov.github.io)**, and welcome to my GitHub bio. 👋
 
-I’m a _juniōr Web-Developer_ from Kazakhstan.
+I’m a <span style="font-family: sans-serif; font-size: 25px">_j∪niōr Web-Developer_</span> from Kazakhstan.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
