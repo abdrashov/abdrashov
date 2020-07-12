@@ -7,7 +7,7 @@ I’m a _juniōr Web-Developer_ from Kazakhstan.
 
 - 🌱 I’m currently learning RestAPI and OOP
 - 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
-- 📫 How to reach me: [Abdrashov](https://abdrashov.github.io)
+- 📫 How to reach me: [Abdrashov Zamanbek](https://abdrashov.github.io)
 - ☘ I like silence
 - ☕️ I drink tea, and especially enjoy
 
