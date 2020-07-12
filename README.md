@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm [Zamanbek] (https://abdrashov.github.io), and welcome to my GitHub bio. 👋
 
 
 **abdrashov/abdrashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
