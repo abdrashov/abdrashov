@@ -1,9 +1,6 @@
 ### Hi, I'm [Zamanbek](https://abdrashov.github.io), and welcome to my GitHub bio. 👋
 
-
-**abdrashov/abdrashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I’m **Abdrashov Zamanbek**, a ✨ _Junior Web-Developer FrontEnd_ ✨ from Kazakhstan.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
