@@ -5,7 +5,7 @@ I’m a _juniōr Web-Developer_ from Kazakhstan.
 
 
 
-- 🌱 I’m currently learning RestAPI and OOP
+- 🌱 I’m currently learning API and OOP
 - 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
 - 📫 How to reach me: [Abdrashov Zamanbek](https://abdrashov.github.io)
 - ☘ I like silence
