@@ -1,4 +1,5 @@
-### Hi, I'm **[Abdrashov Zamanbek](https://abdrashov.github.io)**, and welcome to my GitHub bio. 👋
+### Привет, Я **[Abdrashov Zamanbek](https://abdrashov.github.io)**, и добро пожаловать в мою портфолио на GitHub. 👋
+
 
 I’m a _juniōr Web-Developer_ from Kazakhstan.
 
