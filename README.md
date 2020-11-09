@@ -1,7 +1,7 @@
 ### Привет, Я **[Abdrashov Zamanbek](https://abdrashov.github.io)**, и добро пожаловать в мою портфолио на GitHub. 👋
 <!-- ### Hi, I'm **[Abdrashov Zamanbek](https://abdrashov.github.io)**, and welcome to my GitHub bio. 👋 -->
 
-Я _junior _веб-разработчик_ из Казахстана.
+Я _junior веб-разработчик_ из Казахстана.
 <!-- I’m a _juniōr Web-Developer_ from Kazakhstan. -->
 
 
