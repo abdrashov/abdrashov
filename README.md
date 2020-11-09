@@ -6,12 +6,16 @@
 
 
 
-
-- 🌱 I’m currently learning API and OOP
+- 🌱 В настоящее время я изучаю Laravel и ООП
+- 💬 Спросите меня о чем угодно [здесь](https://github.com/abdrashov/abdrashov/issues)
+- 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
+- ☘ Я желаю себе удачи и чтобы мои мечты сбылись
+- ☕️ Я пью чай
+<!-- - 🌱 I’m currently learning API and OOP
 - 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
 - 📫 How to reach me: [Abdrashov Zamanbek](https://abdrashov.github.io)
 - ☘ I like silence
-- ☕️ I drink tea
+- ☕️ I drink tea -->
 
 
 <!--
