@@ -11,7 +11,7 @@
 - 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
 - ☘ Желаю себе удачи и чтобы мои мечты сбылись
 
-# Проекты
+#### Проекты
 - Послендный проект [Auezov course](http://courses.shymhub.ru/)
 - Лендинг [Lady Moon](https://lady-moon.github.io/)
 - Pet Project [Auezov course](https://textcopy.shymhub.ru/)
