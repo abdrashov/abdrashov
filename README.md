@@ -10,7 +10,14 @@
 - 💬 Спросите меня о чем угодно [здесь](https://github.com/abdrashov/abdrashov/issues)
 - 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
 - ☘ Желаю себе удачи и чтобы мои мечты сбылись
-- ☕️ Я пью кофе
+
+## Проекты
+- [Auezov course](http://courses.shymhub.ru/)
+-
+-
+-
+
+
 <!-- - 🌱 I’m currently learning API and OOP
 - 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
 - 📫 How to reach me: [Abdrashov Zamanbek](https://abdrashov.github.io)
