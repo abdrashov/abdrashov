@@ -3,29 +3,29 @@
 
 
 ### О себе
-- 🌼 :blossom: Я junior веб-разработчик из Казахстана
-- 🏃 :running: Я студент технического университета
+- 🌼 Я junior веб-разработчик из Казахстана
+- 🏃 Cтудент технического университета
 - 🌱 В настоящее время я изучаю Laravel и ООП
 - 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
 - ✨ Желаю себе удачи и чтобы мои мечты сбылись
 
 ### Проекты
-- 💻 :computer: Проект [Auezov University Course](http://courses.shymhub.ru/)
+- 💻 Проект [Auezov University Course](http://courses.shymhub.ru/)
 - 📜 Лендинг [Lady Moon](https://lady-moon.github.io/)
 - 🐙 Pet Project [Text Copy](https://textcopy.shymhub.ru/)
 
 
 <p align="center">
 	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="1000" alt="Auezov course">
+		<img src="auezov.png" width="700" alt="Auezov course">
 	</a>
-</p>
+</p><br/>
 <p align="center">
 	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="500" alt="Auezov course">
+		<img src="auezov.png" width="350" alt="Auezov course">
 	</a>
 	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="500" alt="Auezov course">
+		<img src="auezov.png" width="350" alt="Auezov course">
 	</a>
 </p>
 
