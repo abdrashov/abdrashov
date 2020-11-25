@@ -11,7 +11,7 @@
 
 ### Проекты
 <p align="center">
-	####[Auezov University Course](http://courses.shymhub.ru/)
+	<h3><a href="http://courses.shymhub.ru">Auezov University Course</a></h3><br>
 	<a href="http://courses.shymhub.ru/">
 		<img src="auezov.png" width="350" alt="Auezov course">
 	</a>
