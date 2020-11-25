@@ -18,16 +18,16 @@
 
 <p align="center">
 	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="100" alt="Auezov course">
+		<img src="auezov.png" width="120" alt="Auezov course">
 	</a>
 	<a href="https://lady-moon.github.io/">
-		<img src="lady.png" width="100" alt="Lady Moon">
+		<img src="lady.png" width="120" alt="Lady Moon">
 	</a>
 	<a href="https://textcopy.shymhub.ru/">
-		<img src="text.png" width="100" alt="Text Copy">
+		<img src="text.png" width="120" alt="Text Copy">
 	</a>
 	<a href="http://test.shymhub.ru/">
-		<img src="text.png" width="100" alt="Test">
+		<img src="test.png" width="120" alt="Test">
 	</a>
 </p>
 
