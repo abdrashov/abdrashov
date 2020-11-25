@@ -17,16 +17,15 @@
 
 <p align="center">
 	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="120" alt="Auezov course">
+		<img src="auezov.png" width="1000" alt="Auezov course">
 	</a>
-	<a href="https://packagist.org/packages/laravel/framework">
-		<img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads">
+</p>
+<p align="center">
+	<a href="http://courses.shymhub.ru/">
+		<img src="auezov.png" width="500" alt="Auezov course">
 	</a>
-	<a href="https://packagist.org/packages/laravel/framework">
-		<img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version">
-	</a>
-	<a href="https://packagist.org/packages/laravel/framework">
-		<img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
+	<a href="http://courses.shymhub.ru/">
+		<img src="auezov.png" width="500" alt="Auezov course">
 	</a>
 </p>
 
