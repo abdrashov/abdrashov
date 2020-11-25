@@ -10,16 +10,17 @@
 - ✨ Желаю себе удачи и чтобы мои мечты сбылись
 
 ### Проекты
-- 💻 Проект [Auezov University Course](http://courses.shymhub.ru/)
+<p align="center">
+	####[Auezov University Course](http://courses.shymhub.ru/)
+	<a href="http://courses.shymhub.ru/">
+		<img src="auezov.png" width="350" alt="Auezov course">
+	</a>
+</p><br/>
+<br/>
 - 📜 Лендинг [Lady Moon](https://lady-moon.github.io/)
 - 🐙 Pet Project [Text Copy](https://textcopy.shymhub.ru/)
 
 
-<p align="center">
-	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="700" alt="Auezov course">
-	</a>
-</p><br/>
 <p align="center">
 	<a href="http://courses.shymhub.ru/">
 		<img src="auezov.png" width="350" alt="Auezov course">
