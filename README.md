@@ -1,21 +1,32 @@
+
 ### Привет, Я **[Abdrashov Zamanbek](https://abdrashov.github.io)**, и добро пожаловать в мою портфолио на GitHub. 👋
-<!-- ### Hi, I'm **[Abdrashov Zamanbek](https://abdrashov.github.io)**, and welcome to my GitHub bio. 👋 -->
-
-Я _junior веб-разработчик_ из Казахстана.
-<!-- I’m a _juniōr Web-Developer_ from Kazakhstan. -->
 
 
-
+- 🔭 Я junior веб-разработчик из Казахстана
 - 🌱 В настоящее время я изучаю Laravel и ООП
-- 💬 Спросите меня о чем угодно [здесь](https://github.com/abdrashov/abdrashov/issues)
 - 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
-- ☘ Желаю себе удачи и чтобы мои мечты сбылись
+- ✨ Желаю себе удачи и чтобы мои мечты сбылись
 
 ### Проекты
-- 💻 Послендный проект [Auezov University Course](http://courses.shymhub.ru/)
+- 💻 Проект [Auezov University Course](http://courses.shymhub.ru/)
 - 📜 Лендинг [Lady Moon](https://lady-moon.github.io/)
 - 🐙 Pet Project [Text Copy](https://textcopy.shymhub.ru/)
 
+
+<p align="center">
+	<a href="https://travis-ci.org/laravel/framework">
+		<img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+	</a>
+	<a href="https://packagist.org/packages/laravel/framework">
+		<img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads">
+	</a>
+	<a href="https://packagist.org/packages/laravel/framework">
+		<img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version">
+	</a>
+	<a href="https://packagist.org/packages/laravel/framework">
+		<img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License">
+	</a>
+</p>
 
 <!-- - 🌱 I’m currently learning API and OOP
 - 💬 Ask me about anything [here](https://github.com/abdrashov/abdrashov/issues)
