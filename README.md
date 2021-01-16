@@ -9,23 +9,6 @@
 - 📫 Как со мной связаться: [Абдрашов Заманбек](https://abdrashov.github.io)
 - ✨ Желаю себе удачи и чтобы мои мечты сбылись
 
-### Проекты
-- 💻 Проект [Auezov University Course](http://courses.shymhub.ru/)
-- 🐙 Pet Project [Text Copy](https://textcopy.shymhub.ru/)
-- 🐘 Pet Project [Test](http://test.shymhub.ru/)
-
-
-<p align="center">
-	<a href="http://courses.shymhub.ru/">
-		<img src="auezov.png" width="180" alt="Auezov course">
-	</a>
-	<a href="https://textcopy.shymhub.ru/">
-		<img src="text.png" width="180" alt="Text Copy">
-	</a>
-	<a href="http://test.shymhub.ru/">
-		<img src="test.png" width="180" alt="Test">
-	</a>
-</p>
 
 <!-- 
 - 🌱 I’m currently learning API and OOP
